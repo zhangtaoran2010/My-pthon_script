@@ -1,2 +1,2 @@
-# My pthon_script
+# My python_script
 My PythonWorks
