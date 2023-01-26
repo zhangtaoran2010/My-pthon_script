@@ -1,2 +1,2 @@
-# Mython_script
+# My pthon_script
 My PythonWorks
